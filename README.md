@@ -36,6 +36,17 @@ Possible KPIs include :
 Create a dashboard using the defined KPIs to reflect customer demographics and insights.
 Write a concise email to the engagement partner explaining your findings and providing suggestions for necessary changes based on the dashboard you've created.
 
+Here is the task:
+
+1)Define proper KPIs
+2)Create a dashboard for the retention manager reflecting the KPIs
+3)Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
+
+🎇In Task 4: Diversity & Inclusion 🎇
+
+Create visualizations to represent HR data, particularly focusing on gender-related KPIs. 
+Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
+
 Calculating the following measures could help to define proper KPIs:
 
 🎀 Number of men
@@ -58,8 +69,3 @@ Calculating the following measures could help to define proper KPIs:
 
 🎀 Average Performance rating: women
 
-
-🎇In Task 4: Diversity & Inclusion 🎇
-
-Create visualizations to represent HR data, particularly focusing on gender-related KPIs. 
-Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
