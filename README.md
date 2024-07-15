@@ -21,10 +21,15 @@ Respond to the client's request by providing a well-designed Power BI dashboard 
 Possible KPIs include :
 
 🚀Overall customer satisfaction
+
 🚀Overall calls answered/abandoned
+
 🚀Calls by time
+
 🚀Average speed of answer
+
 🚀Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
 
 🎇In Task 3: Churn Dashboard & Customer Risk Analysis🎇
 
@@ -34,14 +39,23 @@ Write a concise email to the engagement partner explaining your findings and pro
 Calculating the following measures could help to define proper KPIs:
 
 🎀 Number of men
+
 🎀 Number of women
+
 🎀 Number of leavers
+
 🎀 % employees promoted (FY21)
+
 🎀 % of women promoted
+
 🎀 % of hires men
+
 🎀 % of hires women
+
 🎀 % turnover 
+
 🎀 Average performance rating: men
+
 🎀 Average Performance rating: women
 
 
